@@ -1,3 +1,5 @@
+// As I say yes to life, life says yes to me.
+
 package com.atomist.rick2;
 
 import org.springframework.web.bind.annotation.PathVariable;
